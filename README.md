@@ -69,7 +69,12 @@ fabric.mod.json
 "cobblemon-economy": "*"
 ```
 
-Save the file and restart your server.
+Save the file.
+
+4. Remove the mod
+```
+cobblemon-economy-x.x.jar
+```
 
 Safari will now run without requiring Cobblemon Economy when this addon is installed.
 
