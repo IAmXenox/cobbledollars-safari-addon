@@ -11,16 +11,13 @@ When this addon is installed, Safari automatically selects CobbleDollars as the 
 ## ✨ Features
 
 - 💰 Uses **CobbleDollars** as the economy backend.
-- 🔌 Implemented as a lightweight addon mod layered on top of Safari.
 - 🧩 Automatically overrides the default economy provider using a priority-based system.
 - 🚫 Does not require any modification to Safari source code.
-- ⚙️ Allows future compatibility with custom economy providers and addons.
 
 ---
 
 ## 📦 Requirements
 
-- **Minecraft (Fabric)**
 - **Fabric API**
 - **Safari Dimension**
 - **CobbleDollars**
